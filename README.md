@@ -113,3 +113,18 @@ Notes:
 4. Choose the adder with the `ADDER` generic of `vedic16_top`
    (Settings → General → Generics): `"RCA"`, `"CSA"` or `"BASE"`.
 5. **Run Synthesis / Implementation** for schematics and area / timing / power reports.
+
+## Author
+
+**M Kamaraju**
+📬 [LinkedIn](https://www.linkedin.com/in/magupallikamaraju/)
+📧 [mnithen79@gmail.com](mailto:mnithen79@gmail.com)
+
+## License
+
+MIT License, see [LICENSE](LICENSE). It covers this Verilog implementation and
+its results; the paper itself remains the work of its authors and IEEE. You are
+free to use, modify and share this work, **provided you credit the author**:
+keep the copyright notice and mention *M Kamaraju* (with the LinkedIn link
+above) in your project, report or publication. For questions or collaboration,
+reach out by LinkedIn or email.
