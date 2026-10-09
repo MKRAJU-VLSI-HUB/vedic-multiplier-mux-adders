@@ -1,0 +1,28 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct  9 16:26:01 2026
+| Host         : LAPTOP-SBM6UN6L running 64-bit major release  (build 9200)
+| Command      : report_utilization -hierarchical -hierarchical_depth 4 -file C:/Users/RAJU/OneDrive/Desktop/vedic_multiplier/reports/CSA/synth_utilization_hierarchical.rpt
+| Design       : vedic16_top
+| Device       : xc7k70tfbv676-1
+| Speed File   : -1
+| Design State : Synthesized
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++-------------+--------+------------+------------+---------+------+-----+--------+--------+------------+
+|   Instance  | Module | Total LUTs | Logic LUTs | LUTRAMs | SRLs | FFs | RAMB36 | RAMB18 | DSP Blocks |
++-------------+--------+------------+------------+---------+------+-----+--------+--------+------------+
+| vedic16_top |  (top) |        462 |        462 |       0 |    0 |  64 |      0 |      0 |          0 |
++-------------+--------+------------+------------+---------+------+-----+--------+--------+------------+
+
+

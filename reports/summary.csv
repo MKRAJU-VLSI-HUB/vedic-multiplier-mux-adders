@@ -1,0 +1,4 @@
+variant,slice_luts,slice_registers,dsp,wns_ns,mult_path_delay_ns,logic_levels,fmax_mhz,total_power_w,dynamic_power_w
+RCA,518,64,0,0.516,9.471,14,105.4,0.180,0.097
+CSA,459,64,0,1.660,8.293,13,119.9,0.184,0.101
+BASE,278,64,0,3.170,6.828,13,146.4,0.173,0.090

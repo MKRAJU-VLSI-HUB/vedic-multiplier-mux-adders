@@ -1,0 +1,6 @@
+build/
+vivado_project/
+scripts/
+.Xil/
+*.jou
+*.log
